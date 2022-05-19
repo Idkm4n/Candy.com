@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    background-color: rgb(49, 46, 46);
+}
+html {
+    scroll-behavior: smooth;
+}
+h1, h2 {
+    color: white;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.Meny
+{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(28, 140, 196);
+    overflow: hidden;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Klubba {
+    height: 75px;
+    margin-top: -25px;
+    margin-left: -15px;
+}
+.Meny a {
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 25px ;
+}
+.Home:hover, .Shop:hover, .About:hover {
+    background-color: rgb(105, 170, 202);
+}
+.Godis {
+    width: 100%;
+    height: 533px;
+    margin-bottom: -300px;
+}
+.Button {
+    height: 75px;
+    width: 200px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 530px;
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+    color: white;
+    margin-left: 650px;
+    margin-top: -160px;
+}
+h4 {
+    font-size: 20px;
+    color: white;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.Rutor {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.Ruta1 {
+    width: 250px;
+    height: 300px;
+    background-color: black;
+
+    margin-right: 25px;
+}
+.Ruta2 {
+    width: 250px;
+    height: 300px;
+    background-color: black;
+
+    margin-left: 310px;
+    margin-top: -300px;
+}
+.Ruta3 {
+    width: 250px;
+    height: 300px;
+    background-color: black;
+
+    margin-left: 620px;
+    margin-top: -300px;
+}
+.Ruta4 {
+    width: 250px;
+    height: 300px;
+    background-color: black;
+
+    margin-left: 930px;
+    margin-top: -300px;
+}
+h5 {
+    color: white;
+    font-size: 35px;
+    margin-left: 60px;
+    margin-top: -2.5px;
+}
+.VinG {
+    color: white;
+    font-size: 35px;
+    margin-left: 35px;
+    margin-top: -2.5px;
+}
+.RB {
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.Ruta1:hover, .Ruta2:hover, .Ruta3:hover, .Ruta4:hover{
+    box-shadow:  0 5px 5px 10px rgba(137, 5, 101, 0.2), 10px 10px 10px 0 rgba(137, 5, 101, 0.2);
+}
